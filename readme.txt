@@ -1,2 +1,2 @@
-wwwwwwww
-wsssskkkkkzsaqwesdxcvbnmkjuoiuyyttQAZWSEDdTYUIOOLKJMNBVCXZ
+git is a version control system.
+git is free software.
